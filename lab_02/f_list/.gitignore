@@ -1,0 +1,7 @@
+# Build dir
+
+**/build/**
+
+# vi files
+
+*.swp
